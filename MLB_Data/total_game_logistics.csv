@@ -1,26 +1,60 @@
-,Attendance,Time of Game,Venue,Date
-0,"18,209",1:59,"STAPLES Center, Los Angeles, California",2/11/2014
-0,"19,029",2:09,"EnergySolutions Arena, Salt Lake City, Utah",1/2/2015
-0,"17,741",2:08,"Amway Center, Orlando, Florida",4/3/2016
-0,"19,596",2:11,"Oracle Arena, Oakland, California",12/27/2017
-0,"19,249",2:10,"Amway Center, Orlando, Florida",11/17/2018
-0,"15,898",2:19,"Amway Center, Orlando, Florida",11/18/2018
-0,"19,600",2:14,"AmericanAirlines Arena, Miami, Florida",12/2/2018
-0,"16,447",2:06,"State Farm Arena, Atlanta, Georgia",11/8/2019
-0,"16,447",2:10,"Golden 1 Center, Sacramento, California",11/3/2021
-0,"12,993",2:15,"Golden 1 Center, Sacramento, California",11/7/2021
-0,"13,159",2:08,"Golden 1 Center, Sacramento, California",11/19/2021
-0,"13,180",2:20,"Golden 1 Center, Sacramento, California",11/20/2021
-0,"15,091",2:03,"Golden 1 Center, Sacramento, California",12/19/2021
-0,"12,857",2:14,"Golden 1 Center, Sacramento, California",1/14/2022
-0,"15,313",2:04,"Golden 1 Center, Sacramento, California",3/18/2022
-0,"17,583",2:37,"Golden 1 Center, Sacramento, California",3/20/2022
-0,"18,551",2:12,"Moda Center, Portland, Oregon",3/30/2022
-0,"16,296",2:27,"Golden 1 Center, Sacramento, California",10/22/2022
-0,"15,511",2:08,"Golden 1 Center, Sacramento, California",10/27/2022
-0,"17,803",2:24,"Golden 1 Center, Sacramento, California",12/19/2022
-0,"17,932",2:12,"Golden 1 Center, Sacramento, California",1/20/2023
-0,"17,861",2:25,"Golden 1 Center, Sacramento, California",1/21/2023
-0,"18,997",2:32,"Crypto.com Arena, Los Angeles, California",2/7/23
-0,"18,111",2:15,"Golden 1 Center, Sacramento, California",3/13/2023
-0,"18,151",2:07,"Golden 1 Center, Sacramento, California",3/25/2023
+,Attendance,Game Duration,Venue,Date
+0,"42,831",3:15,AT&T Park,7/27/2007
+0,"43,001",2:55,AT&T Park,7/28/2007
+0,"42,633",3:13,Busch Stadium III,9/5/2008
+0,"42,814",2:24,Busch Stadium III,9/6/2008
+0,"35,922",3:09,Angel Stadium of Anaheim,7/25/2009
+0,"48,597",3:15,Dodger Stadium,7/26/2009
+0,"38,156",2:34,Petco Park,8/22/2009
+0,"41,785",2:26,AT&T Park,4/24/2010
+0,"37,911",2:59,Chase Field,9/26/2010
+0,"43,622",3:17,AT&T Park,10/28/2010
+0,"42,171",4:01,AT&T Park,7/14/2012
+0,"29,887",3:12,Petco Park,9/11/2012
+0,"42,534",3:21,AT&T Park,10/14/2012
+0,"45,134",2:58,Dodger Stadium,5/24/2013
+0,"41,532",2:46,AT&T Park,8/21/2013
+0,"51,769",3:05,Dodger Stadium,8/30/2013
+0,"48,624",2:32,Dodger Stadium,6/26/2014
+0,"20,236",2:37,O.co Coliseum,7/5/2014
+0,"30,094",2:44,Citizens Bank Park,7/11/2014
+0,"43,115",3:32,Yankee Stadium III,7/20/2014
+0,"44,561",3:24,Angel Stadium of Anaheim,8/7/2014
+0,"44,205",2:54,Angel Stadium of Anaheim,8/31/2014
+0,"45,321",4:05,Angel Stadium of Anaheim,10/2/2014
+0,"53,479",2:11,Dodger Stadium,5/23/2015
+0,"47,655",2:22,Dodger Stadium,6/6/2015
+0,"52,503",3:24,Dodger Stadium,6/19/2015
+0,"33,756",3:29,Petco Park,8/23/2015
+0,"41,796",3:11,AT&T Park,8/29/2015
+0,"30,601",3:12,Coors Field,7/18/2016
+0,"44,643",2:56,Miller Park,7/23/2016
+0,"30,281",3:00,U.S. Cellular Field,7/24/2016
+0,"30,281",3:00,U.S. Cellular Field,7/24/2016
+0,"26,690",2:23,Target Field,7/26/2016
+0,"40,951",3:08,Wrigley Field,7/29/2016
+0,"42,960",2:57,Busch Stadium III,8/7/2016
+0,"31,118",3:10,Great American Ball Park,9/3/2016
+0,"20,829",3:08,Miller Park,9/20/2016
+0,"33,375",3:51,Comerica Park,9/25/2016
+0,"40,304",2:19,Busch Stadium III,5/31/2017
+0,"40,477",3:07,Busch Stadium III,6/1/2017
+0,"39,868",3:00,Wrigley Field,6/4/2017
+0,"29,247",3:02,PNC Park,7/16/2017
+0,"34,088",3:20,Kauffman Stadium,7/22/2017
+0,"34,651",2:58,Progressive Field,8/5/2017
+0,"46,949",2:54,Rogers Centre,9/23/2017
+0,"42,070",2:41,Busch Stadium III,9/27/2017
+0,"41,113",2:58,Busch Stadium III,4/7/2018
+0,"40,468",2:53,Busch Stadium III,4/8/2018
+0,"37,192",5:21,SunTrust Park,6/22/2018
+0,"11,779",3:26,Marlins Park,7/28/2018
+0,"11,478",3:26,Marlins Park,8/11/2018
+0,"13,197",2:59,Tropicana Field,9/16/2018
+0,"26,495",3:11,T-Mobile Park,4/27/2019
+0,"40,286",3:12,Wrigley Field,7/13/2019
+0,"27,434",2:44,Nationals Park,9/27/2019
+0,"34,484",2:55,Globe Life Field,7/5/2021
+0,"26,353",3:15,Minute Maid Park,7/6/2021
+0,"40,113",3:22,Oracle Park,5/7/2022
+0,"26,805",2:30,RingCentral Coliseum,3/30/2023

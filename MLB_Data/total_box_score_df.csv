@@ -1,51 +1,187 @@
-Date,Home_Away,Team,1Q,2Q,3Q,4Q,T,1OT
-2/11/2014,Away,UTA,16,32,20,28,96,
-2/11/2014,Home,LAL,27,10,23,19,79,
-1/2/2015,Away,ATL,31,26,25,16,98,
-1/2/2015,Home,UTA,21,24,23,24,92,
-4/3/2016,Away,MEM,30,26,29,22,107,
-4/3/2016,Home,ORL,29,38,30,22,119,
-12/27/2017,Away,UTA,24,23,22,32,101,
-12/27/2017,Home,GSW,23,25,42,36,126,
-11/17/2018,Away,LAL,31,22,28,36,117,
-11/17/2018,Home,ORL,25,37,38,30,130,
-11/18/2018,Away,NYK,31,35,26,25,117,
-11/18/2018,Home,ORL,44,23,31,33,131,
-12/2/2018,Away,UTA,35,20,22,23,100,
-12/2/2018,Home,MIA,27,26,27,22,102,
-11/8/2019,Away,SAC,31,32,28,30,121,
-11/8/2019,Home,ATL,24,23,36,26,109,
-11/3/2021,Away,NOP,26,26,35,12,99,
-11/3/2021,Home,SAC,27,29,36,20,112,
-11/7/2021,Away,IND,27,21,26,20,94,
-11/7/2021,Home,SAC,19,24,24,24,91,
-11/19/2021,Away,TOR,30,33,33,12,108,
-11/19/2021,Home,SAC,27,18,21,23,89,
-11/20/2021,Away,UTA,29,25,30,39,123,
-11/20/2021,Home,SAC,28,21,31,25,105,
-12/19/2021,Away,SAS,27,29,29,29,114,
-12/19/2021,Home,SAC,37,26,28,30,121,
-1/14/2022,Away,HOU,40,20,29,25,114,
-1/14/2022,Home,SAC,31,34,33,28,126,
-3/18/2022,Away,BOS,32,35,25,34,126,
-3/18/2022,Home,SAC,26,22,31,18,97,
-3/20/2022,Away,PHO,22,27,34,27,127,17
-3/20/2022,Home,SAC,26,33,28,23,124,14
-3/30/2022,Away,NOP,32,19,34,32,117,
-3/30/2022,Home,POR,36,18,28,25,107,
-10/22/2022,Away,LAC,29,23,34,25,111,
-10/22/2022,Home,SAC,26,29,25,29,109,
-10/27/2022,Away,MEM,32,31,31,31,125,
-10/27/2022,Home,SAC,28,28,27,27,110,
-12/19/2022,Away,CHO,39,27,25,34,125,
-12/19/2022,Home,SAC,30,33,29,27,119,
-1/20/2023,Away,OKC,32,34,22,25,113,
-1/20/2023,Home,SAC,33,26,32,27,118,
-1/21/2023,Away,PHI,27,37,38,27,129,
-1/21/2023,Home,SAC,35,39,22,31,127,
-2/7/23,Away,OKC,36,40,28,29,133,
-2/7/23,Home,LAL,34,32,33,31,130,
-3/13/2023,Away,MIL,27,26,37,43,133,
-3/13/2023,Home,SAC,32,30,25,37,124,
-3/25/2023,Away,UTA,26,35,17,35,113,
-3/25/2023,Home,SAC,32,23,35,31,121,
+,Home_Away,,1,10,11,12,13,14,15,2,3,4,5,6,7,8,9,E,H,R,Team
+Date,,,,,,,,,,,,,,,,,,,,,
+"('7/27/2007',)",Away,via Sports Logos.netAbout logos,1,,,,,,,0,4,1,0,1,1,0,2,2,15,10,Florida Marlins
+"('7/27/2007',)",Home,via Sports Logos.netAbout logos,2,,,,,,,0,0,0,4,6,0,0,X,0,14,12,San Francisco Giants
+"('7/27/2007',)",Away,WP: Vinnie Chulk (4-2) • LP: Renyel Pinto (2-4),,,,,,,,,,,,,,,,,,,
+"('7/28/2007',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,3,0,0,0,0,0,0,2,6,3,Florida Marlins
+"('7/28/2007',)",Away,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,1,0,0,2,0,9,4,San Francisco Giants
+"('7/28/2007',)",Home,WP: Jack Taschner (2-0) • LP: Kevin Gregg (0-4),,,,,,,,,,,,,,,,,,,
+"('7/28/2007',)",Away,Winning Run scored with 1 out,,,,,,,,,,,,,,,,,,,
+"('9/5/2008',)",Home,via Sports Logos.netAbout logos,0,0,3,,,,,0,0,0,0,0,0,0,1,0,9,4,Florida Marlins
+"('9/5/2008',)",Away,via Sports Logos.netAbout logos,0,0,0,,,,,0,0,0,0,0,1,0,0,1,8,1,St. Louis Cardinals
+"('9/5/2008',)",Home,WP: Arthur Rhodes (4-1) • LP: Ryan Franklin (5-6) • SV: Matt Lindstrom (1),,,,,,,,,,,,,,,,,,,
+"('9/6/2008',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,1,2,0,0,0,0,0,0,5,3,Florida Marlins
+"('9/6/2008',)",Home,via Sports Logos.netAbout logos,2,,,,,,,0,0,1,0,1,0,1,X,0,6,5,St. Louis Cardinals
+"('9/6/2008',)",Away,WP: Todd Wellemeyer (12-6) • LP: Scott Olsen (6-10) • SV: Ryan Franklin (15),,,,,,,,,,,,,,,,,,,
+"('7/25/2009',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,2,0,0,0,3,0,0,0,12,5,Minnesota Twins
+"('7/25/2009',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,9,0,0,0,2,X,1,14,11,Los Angeles Angels of Anaheim
+"('7/25/2009',)",Home,WP: Matt Palmer (8-1) • LP: Nick Blackburn (8-5),,,,,,,,,,,,,,,,,,,
+"('7/26/2009',)",Away,via Sports Logos.netAbout logos,0,,,,,,,1,3,4,0,0,0,0,0,0,11,8,Florida Marlins
+"('7/26/2009',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,4,0,0,2,1,13,6,Los Angeles Dodgers
+"('7/26/2009',)",Away,WP: Chris Volstad (8-9) • LP: Jason Schmidt (1-1),,,,,,,,,,,,,,,,,,,
+"('8/22/2009',)",Home,via Sports Logos.netAbout logos,3,,,,,,,0,0,2,0,0,0,2,0,0,14,7,St. Louis Cardinals
+"('8/22/2009',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,4,0,San Diego Padres
+"('8/22/2009',)",Home,WP: Chris Carpenter (14-3) • LP: Kevin Correia (8-10),,,,,,,,,,,,,,,,,,,
+"('4/24/2010',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,4,0,St. Louis Cardinals
+"('4/24/2010',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,2,X,0,7,2,San Francisco Giants
+"('4/24/2010',)",Away,WP: Barry Zito (3-0) • LP: Adam Wainwright (3-1) • SV: Brian Wilson (4),,,,,,,,,,,,,,,,,,,
+"('9/26/2010',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,2,0,0,2,0,0,11,4,Los Angeles Dodgers
+"('9/26/2010',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,0,4,X,1,8,5,Arizona Diamondbacks
+"('9/26/2010',)",Home,WP: Sam Demel (2-1) • LP: Jonathan Broxton (5-6) • SV: J.C. Gutierrez (14),,,,,,,,,,,,,,,,,,,
+"('10/28/2010',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,4,0,Texas Rangers
+"('10/28/2010',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,1,7,X,0,8,9,San Francisco Giants
+"('10/28/2010',)",Away,WP: Matt Cain (2-0) • LP: C.J. Wilson (1-2),,,,,,,,,,,,,,,,,,,
+"('7/14/2012',)",Home,via Sports Logos.netAbout logos,0,0,0,0,,,,0,0,0,0,0,0,0,2,0,7,2,Houston Astros
+"('7/14/2012',)",Away,via Sports Logos.netAbout logos,0,0,0,1,,,,0,0,0,1,1,0,0,0,1,13,3,San Francisco Giants
+"('7/14/2012',)",Home,WP: Jeremy Affeldt (1-1) • LP: Brett Myers (0-4),,,,,,,,,,,,,,,,,,,
+"('7/14/2012',)",Away,Winning Run scored with 0 outs,,,,,,,,,,,,,,,,,,,
+"('9/11/2012',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,1,0,0,1,1,0,0,1,7,4,St. Louis Cardinals
+"('9/11/2012',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,5,0,0,0,1,X,3,8,6,San Diego Padres
+"('9/11/2012',)",Home,WP: Edinson Volquez (10-10) • LP: Adam Wainwright (13-13) • SV: Luke Gregerson (6),,,,,,,,,,,,,,,,,,,
+"('10/14/2012',)",Away,via Sports Logos.netAbout logos,0,,,,,,,2,0,4,0,0,0,0,0,0,8,6,St. Louis Cardinals
+"('10/14/2012',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,4,0,0,0,0,0,1,7,4,San Francisco Giants
+"('10/14/2012',)",Away,WP: Edward Mujica (1-0) • LP: Madison Bumgarner (0-2) • SV: Jason Motte (2),,,,,,,,,,,,,,,,,,,
+"('5/24/2013',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,2,0,1,2,1,0,0,0,6,7,St. Louis Cardinals
+"('5/24/2013',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,2,3,0,Los Angeles Dodgers
+"('5/24/2013',)",Home,WP: Lance Lynn (7-1) • LP: Chris Capuano (1-3),,,,,,,,,,,,,,,,,,,
+"('8/21/2013',)",Away,via Sports Logos.netAbout logos,0,,,,,,,2,3,1,0,0,5,1,0,0,12,12,Boston Red Sox
+"('8/21/2013',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,0,0,2,5,1,San Francisco Giants
+"('8/21/2013',)",Away,WP: Felix Doubront (9-6) • LP: Barry Zito (4-9),,,,,,,,,,,,,,,,,,,
+"('8/30/2013',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,0,1,1,11,2,San Diego Padres
+"('8/30/2013',)",Away,via Sports Logos.netAbout logos,0,,,,,,,2,2,0,0,0,5,0,X,1,13,9,Los Angeles Dodgers
+"('8/30/2013',)",Home,WP: Hyun Jin Ryu (13-5) • LP: Eric Stults (8-12),,,,,,,,,,,,,,,,,,,
+"('6/26/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,5,0,St. Louis Cardinals
+"('6/26/2014',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,1,X,0,5,1,Los Angeles Dodgers
+"('6/26/2014',)",Away,WP: Brian Wilson (1-2) • LP: Adam Wainwright (10-4) • SV: Kenley Jansen (24),,,,,,,,,,,,,,,,,,,
+"('7/5/2014',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,0,0,0,0,0,5,1,Toronto Blue Jays
+"('7/5/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,1,2,0,0,0,2,X,0,12,5,Oakland Athletics
+"('7/5/2014',)",Home,WP: Scott Kazmir (10-3) • LP: Mark Buehrle (10-6),,,,,,,,,,,,,,,,,,,
+"('7/11/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,1,1,0,0,6,2,Washington Nationals
+"('7/11/2014',)",Home,via Sports Logos.netAbout logos,0,,,,,,,2,2,0,0,1,1,0,X,0,10,6,Philadelphia Phillies
+"('7/11/2014',)",Away,WP: A.J. Burnett (6-8) • LP: Jordan Zimmermann (6-5),,,,,,,,,,,,,,,,,,,
+"('7/20/2014',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,0,1,0,1,6,2,Cincinnati Reds
+"('7/20/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,2,0,0,0,1,1,11,3,New York Yankees
+"('7/20/2014',)",Home,WP: David Robertson (1-2) • LP: Aroldis Chapman (0-3),,,,,,,,,,,,,,,,,,,
+"('7/20/2014',)",Away,Winning Run scored with 1 out,,,,,,,,,,,,,,,,,,,
+"('8/7/2014',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,3,0,0,1,0,2,1,0,13,7,Los Angeles Dodgers
+"('8/7/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,1,2,0,Los Angeles Angels of Anaheim
+"('8/7/2014',)",Home,WP: Hyun Jin Ryu (13-5) • LP: C.J. Wilson (8-8),,,,,,,,,,,,,,,,,,,
+"('8/31/2014',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,1,0,1,6,1,Oakland Athletics
+"('8/31/2014',)",Home,via Sports Logos.netAbout logos,0,,,,,,,6,0,0,0,0,1,1,X,0,8,8,Los Angeles Angels of Anaheim
+"('8/31/2014',)",Away,WP: Matt Shoemaker (14-4) • LP: Scott Kazmir (14-7),,,,,,,,,,,,,,,,,,,
+"('10/2/2014',)",Home,via Sports Logos.netAbout logos,0,0,1,,,,,0,1,0,1,0,0,0,0,0,4,3,Kansas City Royals
+"('10/2/2014',)",Away,via Sports Logos.netAbout logos,0,0,0,,,,,0,1,0,1,0,0,0,0,0,4,2,Los Angeles Angels of Anaheim
+"('10/2/2014',)",Home,WP: Danny Duffy (1-0) • LP: Fernando Salas (0-1) • SV: Greg Holland (1),,,,,,,,,,,,,,,,,,,
+"('5/23/2015',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,1,0,San Diego Padres
+"('5/23/2015',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,1,0,0,X,0,6,2,Los Angeles Dodgers
+"('5/23/2015',)",Away,WP: Mike Bolsinger (3-0) • LP: Ian Kennedy (2-4) • SV: Kenley Jansen (3),,,,,,,,,,,,,,,,,,,
+"('6/6/2015',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,1,0,St. Louis Cardinals
+"('6/6/2015',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,2,0,X,0,7,2,Los Angeles Dodgers
+"('6/6/2015',)",Home,WP: Clayton Kershaw (5-3) • LP: Jaime Garcia (1-3) • SV: Kenley Jansen (6),,,,,,,,,,,,,,,,,,,
+"('6/19/2015',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,4,0,0,1,4,0,0,0,12,9,San Francisco Giants
+"('6/19/2015',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,2,0,0,0,0,1,1,0,9,5,Los Angeles Dodgers
+"('6/19/2015',)",Away,WP: Chris Heston (7-5) • LP: Mike Bolsinger (4-2) • SV: Santiago Casilla (19),,,,,,,,,,,,,,,,,,,
+"('8/23/2015',)",Home,via Sports Logos.netAbout logos,4,,,,,,,0,0,1,0,0,3,0,2,1,11,10,St. Louis Cardinals
+"('8/23/2015',)",Away,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,0,2,2,11,3,San Diego Padres
+"('8/23/2015',)",Home,WP: Michael Wacha (15-4) • LP: Colin Rea (2-1),,,,,,,,,,,,,,,,,,,
+"('8/29/2015',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,4,0,0,0,2,0,13,6,St. Louis Cardinals
+"('8/29/2015',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,7,0,San Francisco Giants
+"('8/29/2015',)",Away,WP: Lance Lynn (11-8) • LP: Ryan Vogelsong (9-10),,,,,,,,,,,,,,,,,,,
+"('7/18/2016',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,0,3,0,0,1,6,4,Tampa Bay Rays
+"('7/18/2016',)",Away,via Sports Logos.netAbout logos,1,,,,,,,0,0,2,2,0,0,2,X,0,12,7,Colorado Rockies
+"('7/18/2016',)",Home,WP: Tyler Anderson (2-3) • LP: Drew Smyly (2-11) • SV: Carlos Estevez (6),,,,,,,,,,,,,,,,,,,
+"('7/23/2016',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,1,0,0,1,6,1,Chicago Cubs
+"('7/23/2016',)",Home,via Sports Logos.netAbout logos,2,,,,,,,0,0,1,0,0,0,3,X,0,8,6,Milwaukee Brewers
+"('7/23/2016',)",Away,WP: Zach Davies (7-4) • LP: John Lackey (7-7),,,,,,,,,,,,,,,,,,,
+"('7/24/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,1,3,0,8,4,Detroit Tigers
+"('7/24/2016',)",Away,via Sports Logos.netAbout logos,1,,,,,,,3,0,0,0,0,0,0,1,0,12,5,Chicago White Sox
+"('7/24/2016',)",Home,WP: David Robertson (2-2) • LP: Bruce Rondon (3-2),,,,,,,,,,,,,,,,,,,
+"('7/24/2016',)",Away,Winning Run scored with 1 out,,,,,,,,,,,,,,,,,,,
+"('7/24/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,1,3,0,8,4,Detroit Tigers
+"('7/24/2016',)",Away,via Sports Logos.netAbout logos,1,,,,,,,3,0,0,0,0,0,0,1,0,12,5,Chicago White Sox
+"('7/24/2016',)",Home,WP: David Robertson (2-2) • LP: Bruce Rondon (3-2),,,,,,,,,,,,,,,,,,,
+"('7/24/2016',)",Away,Winning Run scored with 1 out,,,,,,,,,,,,,,,,,,,
+"('7/26/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,1,1,0,0,0,0,0,0,0,7,2,Atlanta Braves
+"('7/26/2016',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,1,5,0,Minnesota Twins
+"('7/26/2016',)",Home,WP: Lucas Harrell (2-2) • LP: Ervin Santana (3-9) • SV: Jim Johnson (3),,,,,,,,,,,,,,,,,,,
+"('7/29/2016',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,1,0,8,1,Seattle Mariners
+"('7/29/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,3,2,0,0,6,1,0,X,0,14,12,Chicago Cubs
+"('7/29/2016',)",Away,WP: Jon Lester (11-4) • LP: Hisashi Iwakuma (11-7),,,,,,,,,,,,,,,,,,,
+"('8/7/2016',)",Home,via Sports Logos.netAbout logos,3,,,,,,,3,0,0,0,0,0,0,0,1,11,6,Atlanta Braves
+"('8/7/2016',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,0,2,0,0,9,3,St. Louis Cardinals
+"('8/7/2016',)",Home,WP: Mike Foltynewicz (5-5) • LP: Adam Wainwright (9-6) • SV: Jim Johnson (8),,,,,,,,,,,,,,,,,,,
+"('9/3/2016',)",Away,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,0,0,0,0,1,5,1,St. Louis Cardinals
+"('9/3/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,1,0,1,0,2,5,X,1,12,9,Cincinnati Reds
+"('9/3/2016',)",Away,WP: Dan Straily (11-7) • LP: Jaime Garcia (10-11),,,,,,,,,,,,,,,,,,,
+"('9/20/2016',)",Home,via Sports Logos.netAbout logos,2,,,,,,,0,0,1,2,1,0,0,0,2,13,6,Pittsburgh Pirates
+"('9/20/2016',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,1,1,1,0,0,0,0,0,7,3,Milwaukee Brewers
+"('9/20/2016',)",Home,WP: Jared Hughes (1-1) • LP: Matt Garza (5-8) • SV: Tony Watson (14),,,,,,,,,,,,,,,,,,,
+"('9/25/2016',)",Away,via Sports Logos.netAbout logos,4,,,,,,,0,3,2,0,2,0,0,1,0,19,12,Kansas City Royals
+"('9/25/2016',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,4,1,0,1,1,2,0,0,17,9,Detroit Tigers
+"('9/25/2016',)",Away,WP: Dillon Gee (8-9) • LP: Matthew Boyd (6-5) • SV: Wade Davis (26),,,,,,,,,,,,,,,,,,,
+"('5/31/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,1,0,0,0,0,5,1,Los Angeles Dodgers
+"('5/31/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,1,X,0,5,2,St. Louis Cardinals
+"('5/31/2017',)",Home,WP: Carlos Martinez (4-4) • LP: Ross Stripling (0-3) • SV: Seunghwan Oh (12),,,,,,,,,,,,,,,,,,,
+"('6/1/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,0,0,5,0,Los Angeles Dodgers
+"('6/1/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,2,0,0,0,0,0,0,X,0,9,2,St. Louis Cardinals
+"('6/1/2017',)",Away,WP: Adam Wainwright (6-3) • LP: Brandon McCarthy (5-2) • SV: Seunghwan Oh (13),,,,,,,,,,,,,,,,,,,
+"('6/4/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,4,0,2,0,0,0,1,6,6,St. Louis Cardinals
+"('6/4/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,1,5,0,0,1,0,X,0,9,7,Chicago Cubs
+"('6/4/2017',)",Home,WP: Pedro Strop (2-2) • LP: Matt Bowman (1-2) • SV: Koji Uehara (2),,,,,,,,,,,,,,,,,,,
+"('7/16/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,1,0,1,0,0,12,3,St. Louis Cardinals
+"('7/16/2017',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,1,0,0,0,2,3,8,4,Pittsburgh Pirates
+"('7/16/2017',)",Away,WP: Wade LeBlanc (4-2) • LP: Brett Cecil (1-3),,,,,,,,,,,,,,,,,,,
+"('7/16/2017',)",Home,Winning Run scored with 2 outs,,,,,,,,,,,,,,,,,,,
+"('7/22/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,1,0,1,0,0,0,0,0,8,2,Chicago White Sox
+"('7/22/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,5,1,1,X,0,9,7,Kansas City Royals
+"('7/22/2017',)",Away,WP: Scott Alexander (2-3) • LP: David Holmberg (1-3),,,,,,,,,,,,,,,,,,,
+"('8/5/2017',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,0,0,1,0,0,5,2,New York Yankees
+"('8/5/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,0,0,0,6,1,Cleveland Indians
+"('8/5/2017',)",Home,WP: David Robertson (5-2) • LP: Zach McAllister (1-1) • SV: Aroldis Chapman (14),,,,,,,,,,,,,,,,,,,
+"('9/23/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,3,0,0,1,1,0,7,5,New York Yankees
+"('9/23/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,1,0,0,0,0,0,0,0,4,1,Toronto Blue Jays
+"('9/23/2017',)",Away,WP: Sonny Gray (10-11) • LP: Joe Biagini (3-12),,,,,,,,,,,,,,,,,,,
+"('9/27/2017',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,5,0,0,0,8,5,Chicago Cubs
+"('9/27/2017',)",Away,via Sports Logos.netAbout logos,0,,,,,,,1,0,0,0,0,0,0,0,0,5,1,St. Louis Cardinals
+"('9/27/2017',)",Home,WP: John Lackey (12-11) • LP: Michael Wacha (12-9),,,,,,,,,,,,,,,,,,,
+"('4/7/2018',)",Away,via Sports Logos.netAbout logos,1,,,,,,,0,1,0,0,0,0,1,0,0,5,3,Arizona Diamondbacks
+"('4/7/2018',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,4,0,0,0,0,0,X,1,10,5,St. Louis Cardinals
+"('4/7/2018',)",Away,WP: Michael Wacha (1-1) • LP: Zack Greinke (0-1) • SV: Bud Norris (1),,,,,,,,,,,,,,,,,,,
+"('4/8/2018',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,1,3,0,0,7,4,Arizona Diamondbacks
+"('4/8/2018',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,0,0,0,0,5,1,St. Louis Cardinals
+"('4/8/2018',)",Home,WP: Yoshihisa Hirano (1-0) • LP: Dominic Leone (0-2) • SV: Brad Boxberger (4),,,,,,,,,,,,,,,,,,,
+"('6/22/2018',)",Away,via Sports Logos.netAbout logos,0,0,0,0,0,0,3,0,0,0,1,0,0,0,6,0,15,10,Baltimore Orioles
+"('6/22/2018',)",Home,via Sports Logos.netAbout logos,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,14,7,Atlanta Braves
+"('6/22/2018',)",Away,WP: Mike Wright Jr. (1-0) • LP: Peter Moylan (0-1),,,,,,,,,,,,,,,,,,,
+"('7/28/2018',)",Home,via Sports Logos.netAbout logos,0,0,,,,,,0,0,0,0,0,0,0,1,1,5,1,Washington Nationals
+"('7/28/2018',)",Away,via Sports Logos.netAbout logos,0,1,,,,,,0,0,1,0,0,0,0,0,0,8,2,Miami Marlins
+"('7/28/2018',)",Home,WP: Brett Graves (1-1) • LP: Kelvin Herrera (2-2),,,,,,,,,,,,,,,,,,,
+"('7/28/2018',)",Away,Winning Run scored with 0 outs,,,,,,,,,,,,,,,,,,,
+"('8/11/2018',)",Home,via Sports Logos.netAbout logos,0,0,0,,,,,0,0,3,0,0,0,0,0,0,6,3,New York Mets
+"('8/11/2018',)",Away,via Sports Logos.netAbout logos,0,0,1,,,,,0,0,2,1,0,0,0,0,0,11,4,Miami Marlins
+"('8/11/2018',)",Home,WP: Javy Guerra (1-0) • LP: Jacob Rhame (0-2),,,,,,,,,,,,,,,,,,,
+"('8/11/2018',)",Away,Winning Run scored with 1 out,,,,,,,,,,,,,,,,,,,
+"('9/16/2018',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,4,0,4,4,Oakland Athletics
+"('9/16/2018',)",Away,via Sports Logos.netAbout logos,2,,,,,,,0,0,1,0,0,2,0,X,0,9,5,Tampa Bay Rays
+"('9/16/2018',)",Home,WP: Andrew Kittredge (3-2) • LP: Mike Fiers (12-7) • SV: Sergio Romo (21),,,,,,,,,,,,,,,,,,,
+"('4/27/2019',)",Away,via Sports Logos.netAbout logos,3,,,,,,,3,2,0,1,1,0,1,4,0,20,15,Texas Rangers
+"('4/27/2019',)",Home,via Sports Logos.netAbout logos,1,,,,,,,0,0,0,0,0,0,0,0,3,3,1,Seattle Mariners
+"('4/27/2019',)",Away,WP: Mike Minor (3-2) • LP: Mike Leake (2-3),,,,,,,,,,,,,,,,,,,
+"('7/13/2019',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,1,1,1,0,2,11,4,Pittsburgh Pirates
+"('7/13/2019',)",Away,via Sports Logos.netAbout logos,7,,,,,,,0,1,2,0,0,0,0,X,1,13,10,Chicago Cubs
+"('7/13/2019',)",Home,WP: Jon Lester (9-6) • LP: Jordan Lyles (5-6),,,,,,,,,,,,,,,,,,,
+"('9/27/2019',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,2,0,0,0,0,0,0,0,3,2,Cleveland Indians
+"('9/27/2019',)",Home,via Sports Logos.netAbout logos,0,,,,,,,2,0,0,0,5,0,1,X,0,11,8,Washington Nationals
+"('9/27/2019',)",Away,WP: Austin Voth (2-1) • LP: Nick Goody (3-2),,,,,,,,,,,,,,,,,,,
+"('7/5/2021',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,1,0,5,0,1,0,0,8,7,Detroit Tigers
+"('7/5/2021',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,0,3,3,7,3,Texas Rangers
+"('7/5/2021',)",Home,WP: Wily Peralta (2-1) • LP: Kolby Allard (2-5),,,,,,,,,,,,,,,,,,,
+"('7/6/2021',)",Away,via Sports Logos.netAbout logos,3,,,,,,,3,0,0,0,0,0,0,0,0,11,6,Oakland Athletics
+"('7/6/2021',)",Home,via Sports Logos.netAbout logos,2,,,,,,,0,0,1,3,3,0,0,X,1,12,9,Houston Astros
+"('7/6/2021',)",Away,WP: Bryan Abreu (3-3) • LP: J.B. Wendelken (1-1) • SV: Ryan Pressly (15),,,,,,,,,,,,,,,,,,,
+"('5/7/2022',)",Home,via Sports Logos.netAbout logos,1,,,,,,,2,0,1,0,0,3,0,0,3,14,7,St. Louis Cardinals
+"('5/7/2022',)",Away,via Sports Logos.netAbout logos,4,,,,,,,4,0,1,0,0,1,3,X,0,9,13,San Francisco Giants
+"('5/7/2022',)",Home,WP: Logan Webb (4-1) • LP: Steven Matz (3-2),,,,,,,,,,,,,,,,,,,
+"('3/30/2023',)",Away,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,1,0,0,0,0,0,5,1,Los Angeles Angels
+"('3/30/2023',)",Home,via Sports Logos.netAbout logos,0,,,,,,,0,0,0,0,0,0,2,X,1,6,2,Oakland Athletics
+"('3/30/2023',)",Away,WP: Trevor May (1-0) • LP: Aaron Loup (0-1) • SV: Dany Jiménez (1),,,,,,,,,,,,,,,,,,,
