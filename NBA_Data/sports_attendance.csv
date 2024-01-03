@@ -3,7 +3,7 @@ Date,Home,Visitor,Sport
 7/28/2007,San Francisco Giants,Florida Marlins,MLB
 9/5/2008,St. Louis Cardinals,Florida Marlins,MLB
 9/6/2008,St. Louis Cardinals,Florida Marlins,MLB
-7/25/2009,Los Angeles Angels,Minnesota Twins,MLB
+7/25/2009,Los Angeles Angels of Anaheim,Minnesota Twins,MLB
 7/26/2009,Los Angeles Dodgers,Florida Marlins,MLB
 8/22/2009,San Diego Padres,St. Louis Cardinals,MLB
 4/24/2010,San Francisco Giants,St. Louis Cardinals,MLB
@@ -39,10 +39,10 @@ Date,Home,Visitor,Sport
 7/5/2014,Oakland Athletics,Toronto Blue Jays,MLB
 7/11/2014,Philadelphia Phillies,Washington Nationals,MLB
 7/20/2014,New York Yankees,Cincinnati Reds,MLB
-8/7/2014,Los Angeles Angels,Los Angeles Dodgers,MLB
-8/31/2014,Los Angeles Angels,Oakland Athletics,MLB
+8/7/2014,Los Angeles Angels of Anaheim,Los Angeles Dodgers,MLB
+8/31/2014,Los Angeles Angels of Anaheim,Oakland Athletics,MLB
 9/6/2014,UCLA Bruins,Memphis Tigers,NCAA FB
-10/2/2014,Los Angeles Angels,Kansas City Royals,MLB
+10/2/2014,Los Angeles Angels of Anaheim,Kansas City Royals,MLB
 10/11/2014,UCLA Bruins,Oregon Ducks,NCAA FB
 11/22/2014,UCLA Bruins,Southern California Trojans,NCAA FB
 12/6/2014,UCLA Bruins,UNC Tarheels,NCAAM Soccer
@@ -65,7 +65,7 @@ Date,Home,Visitor,Sport
 7/4/2016,Fresno Grizzlies,Sacramento River Cats,MiLB
 7/18/2016,Colorado Rockies,Tampa Bay Rays,MLB
 7/23/2016,Milwaukee Brewers,Chicago Cubs,MLB
-7/24/2016,Chicago White Sox,Detroit Tigers,MLB
+7/23/2016,Chicago White Sox,Detroit Tigers,MLB
 7/24/2016,Chicago White Sox,Detroit Tigers,MLB
 7/26/2016,Minnesota Twins,Atlanta Braves,MLB
 7/29/2016,Chicago Cubs,Seattle Mariners,MLB
@@ -86,7 +86,7 @@ Date,Home,Visitor,Sport
 6/4/2017,Chicago Cubs,St. Louis Cardinals,MLB
 7/16/2017,Pittsburgh Pirates,St. Louis Cardinals,MLB
 7/22/2017,Kansas City Royals,Chicago White Sox,MLB
-8/5/2017,Cleveland Guardians,New York Yankees,MLB
+8/5/2017,Cleveland Indians,New York Yankees,MLB
 9/23/2017,Toronto Blue Jays,New York Yankees,MLB
 9/27/2017,St. Louis Cardinals,Chicago Cubs,MLB
 11/25/2017,Fresno State Bulldogs,Boise State Broncos,NCAA FB
@@ -106,7 +106,7 @@ Date,Home,Visitor,Sport
 7/13/2019,Chicago Cubs,Pittsburgh Pirates,MLB
 8/24/2019,Palm Beach Cardinals,Fort Myers Miracle,MiLB
 9/7/2019,Florida Atlantic Owls,UCF Knights,NCAA FB
-9/27/2019,Washington Nationals,Cleveland Guardians,MLB
+9/27/2019,Washington Nationals,Cleveland Indians,MLB
 11/8/2019,Atlanta Hawks,Sacramento Kings,NBA
 1/16/2020,Florida Panthers,Los Angeles Kings,NHL
 2/29/2020,Florida Panthers,Chicago Blackhawks,NHL
@@ -148,3 +148,23 @@ Date,Home,Visitor,Sport
 3/18/2023,Missouri Tigers,Princeton Tigers,NCAA BB
 3/18/2023,UCLA Bruins,Northwestern Wildcats,NCAA BB
 3/25/2023,Sacramento Kings,Utah Jazz,NBA
+3/30/2023,Oakland Athletics,Los Angeles Angels,MLB
+4/5/2023,Sacramento River Cats,El Paso Chihuahuas,MilB
+4/21/2023,Sacramento River Cats,Round Rock Express,MilB
+6/17/2023,Seattle Mariners,Chicago White Sox,MLB
+7/3/2023,Los Angeles Lakers,Miami Heat,NBA Summer League
+7/3/2023,Charlotte Hornets,San Antonio Spurs,NBA Summer League
+7/3/2023,Sacramento Kings,Golden State Warriors,NBA Summer League
+7/15/2023,Chicago Cubs,Boston Red Sox,MLB
+7/21/2023,Sacramento River Cats,Tacoma Rainiers,MiLB
+8/3/2023,Sacramento River Cats,Reno Aces,MiLB
+8/15/2023,Sacramento River Cats,Tacoma Rainiers,MiLB
+8/29/2023,Sacramento River Cats,Albuquerque Isotopes,MiLB
+9/3/2023,San Diego Padres,San Francisco Giants,MLB
+9/12/2023,Sacramento River Cats,Sugar Land Space Cowboys,MiLB
+9/30/2023,Fresno State Bulldogs,Nevada Wolf Pack,NCAAF
+10/19/2023,Sacramento Kings,Utah Jazz,NBA Preseason
+10/21/2023,Stanford Cardinal,UCLA Bruins,NCAAF
+11/10/2023,Sacramento Kings,Oklahoma City Thunder,NBA
+12/16/2023,UCLA Bruins,Boise State Broncos,NCAAF
+12/22/2023,Sacramento Kings,Pheonix Suns,NBA
