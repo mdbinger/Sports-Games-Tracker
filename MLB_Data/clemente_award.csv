@@ -1,7 +1,7 @@
 ,Year,Lg,Name,Tm,WAR,BA,OBP,SLG,HR,RBI,SB,W,L,SV,ERA,IP,SO
 0,2023,ML,Aaron Judge,NYY,4.5,.267,.406,.613,37,75,3,,,,,,
 2,2022,ML,Justin Turner,LAD,2.0,.278,.350,.438,13,81,3,,,,,,
-4,2021,ML,Nelson Cruz,"TBR,MIN",2.5,.265,.334,.497,32,86,3,,,,,,
+4,2021,ML,Nelson Cruz,"MIN,TBR",2.5,.265,.334,.497,32,86,3,,,,,,
 6,2020,ML,Adam Wainwright,STL,0.5,,,,,,,5,3,0,3.15,65.2,54
 8,2019,ML,Carlos Carrasco,CLE,0.1,,,,,,,6,7,1,5.29,80.0,96
 10,2018,ML,Yadier Molina,STL,1.5,.261,.314,.436,20,74,4,,,,,,
